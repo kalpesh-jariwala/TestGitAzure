@@ -15,7 +15,7 @@ namespace GitDeploymentTesting.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page. ";
+            ViewBag.Message = "Your application description page. my github account testing ";
 
             return View();
         }
